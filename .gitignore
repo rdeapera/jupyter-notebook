@@ -6,3 +6,4 @@ lib/
 etc/
 share/
 pip-selfcheck.json
+.DS_Store
